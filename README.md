@@ -17,7 +17,7 @@ answers.forEach((yes, bit) => {
 });
 ```
 
-Die schwebenden Zahlen im Hintergrund sind Dekoration. Sie kommen aus `Math.floor(60 * Math.random()) + 1` und verschwinden beim Start. Sie gehen nicht in die Rechnung ein.
+[MP4 der Aufnahme](proof_site_guesses_21_then_42.mp4)
 
 ## Die sechs Listen
 
